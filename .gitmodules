@@ -1,0 +1,4 @@
+[submodule "dogs_breed_det"]
+	path = dogs_breed_det
+	url = https://github.com/ai4os-hub/dogs_breed_det
+	branch = main
