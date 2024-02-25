@@ -1,7 +1,3 @@
-[submodule "dogs_breed_det"]
-	path = dogs_breed_det
-	url = https://github.com/ai4os-hub/dogs_breed_det
-	branch = main
 [submodule "dogs-breed-detector"]
 	path = dogs-breed-detector
 	url = https://github.com/ai4os-hub/dogs-breed-detector.git
