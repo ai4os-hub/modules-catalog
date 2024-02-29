@@ -1,0 +1,29 @@
+name: Update dashboard
+
+on:
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+     update-dashboard:
+        name: Update
+        runs-on: ubuntu-latest
+        steps:
+        - name: Add Host key
+          run: |
+            mkdir -p $HOME/.ssh
+            echo "${{ secrets.DEV_HOST_KEY }}" > $HOME/.ssh/known_hosts
+            chmod 600 $HOME/.ssh/known_hosts
+        - name: Retrieve SSH key
+          run: |
+            echo "${{ secrets.DEV_SSH_KEY }}" > ssh.key 
+            chmod 600 ssh.key
+        - name: Run Update
+          run: |
+            ssh -i ssh.key ${{ secrets.DEV_USER }}@${{ secrets.DEV_HOST }} 'ls -la'
+        - name: Delete keys
+          run: |
+            rm ssh.key
+            rm -rf $HOME/.ssh
