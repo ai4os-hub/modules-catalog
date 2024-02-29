@@ -2,3 +2,7 @@
 	path = dogs-breed-detector
 	url = https://github.com/ai4os-hub/dogs-breed-detector.git
 	branch = main
+[submodule "DEEP-OC-generic-dev"]
+	path = DEEP-OC-generic-dev
+	url = https://github.com/deephdc/DEEP-OC-generic-dev
+	branch = master
