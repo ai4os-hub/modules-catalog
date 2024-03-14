@@ -6,7 +6,3 @@
 	path = DEEP-OC-generic-dev
 	url = https://github.com/deephdc/DEEP-OC-generic-dev
 	branch = master
-[submodule "tf-benchmarks-cnn"]
-	path = tf-benchmarks-cnn
-	url = https://github.com/ai4os-hub/tf-benchmarks-cnn
-	branch = main
