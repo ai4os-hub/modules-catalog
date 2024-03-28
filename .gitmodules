@@ -10,3 +10,7 @@
 	path = tf-cnn-benchmarks-api
 	url = https://github.com/ai4os-hub/tf-cnn-benchmarks-api
 	branch = main
+[submodule "fast-neural-transfer"]
+	path = fast-neural-transfer
+	url = https://github.com/ai4os-hub/fast-neural-transfer/
+	branch = main
