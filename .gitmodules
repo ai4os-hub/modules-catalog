@@ -14,3 +14,7 @@
 	path = fast-neural-transfer
 	url = https://github.com/ai4os-hub/fast-neural-transfer/
 	branch = main
+[submodule "ai4os-demo-app"]
+	path = ai4os-demo-app
+	url = https://github.com/ai4os-hub/ai4os-demo-app
+	branch = main
