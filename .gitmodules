@@ -18,3 +18,7 @@
 	path = ai4os-demo-app
 	url = https://github.com/ai4os-hub/ai4os-demo-app
 	branch = main
+[submodule "ai4os-image-classification-tf"]
+	path = ai4os-image-classification-tf
+	url = https://github.com/ai4os-hub/ai4os-image-classification-tf
+	branch = main
