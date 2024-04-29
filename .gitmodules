@@ -30,3 +30,7 @@
 	path = birds-audio-classification
 	url = https://github.com/ai4os-hub/birds-audio-classification.git
 	branch = main
+[submodule "conus-classification"]
+	path = conus-classification
+	url = https://github.com/ai4os-hub/conus-classification.git
+	branch = main
