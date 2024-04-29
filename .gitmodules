@@ -22,3 +22,7 @@
 	path = ai4os-image-classification-tf
 	url = https://github.com/ai4os-hub/ai4os-image-classification-tf
 	branch = main
+[submodule "ai4os-audio-classification-tf"]
+	path = ai4os-audio-classification-tf
+	url = https://github.com/ai4os-hub/ai4os-audio-classification-tf
+	branch = main
