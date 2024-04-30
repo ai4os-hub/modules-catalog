@@ -42,3 +42,7 @@
 	path = seeds-classification
 	url = https://github.com/ai4os-hub/seeds-classification
 	branch = main
+[submodule "obj-detection-torch"]
+	path = obj-detection-torch
+	url = https://github.com/ai4os-hub/obj-detection-torch
+	branch = main
