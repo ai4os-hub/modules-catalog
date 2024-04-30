@@ -38,3 +38,7 @@
 	path = plants-classification
 	url = https://github.com/ai4os-hub/plants-classification
 	branch = main
+[submodule "seeds-classification"]
+	path = seeds-classification
+	url = https://github.com/ai4os-hub/seeds-classification
+	branch = main
