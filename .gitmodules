@@ -34,3 +34,7 @@
 	path = conus-classification
 	url = https://github.com/ai4os-hub/conus-classification.git
 	branch = main
+[submodule "plants-classification"]
+	path = plants-classification
+	url = https://github.com/ai4os-hub/plants-classification
+	branch = main
