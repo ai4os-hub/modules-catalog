@@ -50,3 +50,7 @@
 	path = semseg-vaihingen
 	url = https://github.com/ai4os-hub/semseg-vaihingen
 	branch = main
+[submodule "retinopathy-test"]
+	path = retinopathy-test
+	url = https://github.com/ai4os-hub/retinopathy-test
+	branch = main
