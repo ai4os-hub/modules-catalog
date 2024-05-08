@@ -54,3 +54,7 @@
 	path = retinopathy-test
 	url = https://github.com/ai4os-hub/retinopathy-test
 	branch = main
+[submodule "ai4os-fasterrcnn-torch"]
+	path = ai4os-fasterrcnn-torch
+	url = https://github.com/ai4os-hub/ai4os-fasterrcnn-torch
+	branch = main
