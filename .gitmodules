@@ -62,3 +62,7 @@
 	path = ai4os-speech-to-text-tf
 	url = https://github.com/ai4os-hub/ai4os-speech-to-text-tf
 	branch = main
+[submodule "ai4os-yolov8-torch"]
+	path = ai4os-yolov8-torch
+	url = https://github.com/ai4os-hub/ai4os-yolov8-torch
+	branch = main
