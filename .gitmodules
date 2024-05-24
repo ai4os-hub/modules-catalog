@@ -66,3 +66,7 @@
 	path = ai4os-yolov8-torch
 	url = https://github.com/ai4os-hub/ai4os-yolov8-torch
 	branch = main
+[submodule "thunderstorm-nowcast-microstep"]
+	path = thunderstorm-nowcast-microstep
+	url = https://github.com/ai4os-hub/thunderstorm-nowcast-microstep
+	branch = main
