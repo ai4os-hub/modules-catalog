@@ -70,3 +70,63 @@
 	path = thunderstorm-nowcast-microstep
 	url = https://github.com/ai4os-hub/thunderstorm-nowcast-microstep
 	branch = main
+[submodule "DEEP-OC-mods"]
+	path = DEEP-OC-mods
+	url = https://github.com/deephdc/DEEP-OC-mods
+	branch = master
+[submodule "DEEP-OC-plants-classification-tf"]
+	path = DEEP-OC-plants-classification-tf
+	url = https://github.com/deephdc/DEEP-OC-plants-classification-tf
+	branch = master
+[submodule "DEEP-OC-satsr"]
+	path = DEEP-OC-satsr
+	url = https://github.com/deephdc/DEEP-OC-satsr
+	branch = master
+[submodule "DEEP-OC-posenet-tf"]
+	path = DEEP-OC-posenet-tf
+	url = https://github.com/deephdc/DEEP-OC-posenet-tf
+	branch = master
+[submodule "DEEP-OC-image-classification-tf-dicom"]
+	path = DEEP-OC-image-classification-tf-dicom
+	url = https://github.com/deephdc/DEEP-OC-image-classification-tf-dicom
+	branch = master
+[submodule "UC-adnaneds-DEEP-OC-unet"]
+	path = UC-adnaneds-DEEP-OC-unet
+	url = https://github.com/deephdc/UC-adnaneds-DEEP-OC-unet
+	branch = main
+[submodule "UC-hereariim-DEEP-OC-blossom"]
+	path = UC-hereariim-DEEP-OC-blossom
+	url = https://github.com/deephdc/UC-hereariim-DEEP-OC-blossom
+	branch = master
+[submodule "UC-emmaamblard-DEEP-OC-multi_plankton_separation"]
+	path = UC-emmaamblard-DEEP-OC-multi_plankton_separation
+	url = https://github.com/deephdc/UC-emmaamblard-DEEP-OC-multi_plankton_separation
+	branch = master
+[submodule "UC-DFKI-NI-DEEP-OC-litter_assessment_service"]
+	path = UC-DFKI-NI-DEEP-OC-litter_assessment_service
+	url = https://github.com/deephdc/UC-DFKI-NI-DEEP-OC-litter_assessment_service
+	branch = main
+[submodule "UC-lifewatch-DEEP-OC-phyto-plankton-classification"]
+	path = UC-lifewatch-DEEP-OC-phyto-plankton-classification
+	url = https://github.com/deephdc/UC-lifewatch-DEEP-OC-phyto-plankton-classification
+	branch = master
+[submodule "UC-lifewatch-DEEP-OC-underwater-noise-classification"]
+	path = UC-lifewatch-DEEP-OC-underwater-noise-classification
+	url = https://github.com/deephdc/UC-lifewatch-DEEP-OC-underwater-noise-classification
+	branch = master
+[submodule "UC-EnocMartinez-DEEP-OC-obsea-fish-detection"]
+	path = UC-EnocMartinez-DEEP-OC-obsea-fish-detection
+	url = https://github.com/deephdc/UC-EnocMartinez-DEEP-OC-obsea-fish-detection
+	branch = master
+[submodule "UC-emvollmer-deep-oc-tbbrdet_api"]
+	path = UC-emvollmer-deep-oc-tbbrdet_api
+	url = https://github.com/deephdc/UC-emvollmer-deep-oc-tbbrdet_api
+	branch = master
+[submodule "UC-ai4eosc-psnc-DEEP-OC-integrated_plant_protection"]
+	path = UC-ai4eosc-psnc-DEEP-OC-integrated_plant_protection
+	url = https://github.com/deephdc/UC-ai4eosc-psnc-DEEP-OC-integrated_plant_protection
+	branch = master
+[submodule "UC-jmbIFR-DEEP-OC-marine_species_seg"]
+	path = UC-jmbIFR-DEEP-OC-marine_species_seg
+	url = https://github.com/deephdc/UC-jmbIFR-DEEP-OC-marine_species_seg
+	branch = master
