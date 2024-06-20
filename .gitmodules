@@ -118,10 +118,6 @@
 	path = UC-EnocMartinez-DEEP-OC-obsea-fish-detection
 	url = https://github.com/deephdc/UC-EnocMartinez-DEEP-OC-obsea-fish-detection
 	branch = master
-[submodule "UC-emvollmer-deep-oc-tbbrdet_api"]
-	path = UC-emvollmer-deep-oc-tbbrdet_api
-	url = https://github.com/deephdc/UC-emvollmer-deep-oc-tbbrdet_api
-	branch = master
 [submodule "UC-ai4eosc-psnc-DEEP-OC-integrated_plant_protection"]
 	path = UC-ai4eosc-psnc-DEEP-OC-integrated_plant_protection
 	url = https://github.com/deephdc/UC-ai4eosc-psnc-DEEP-OC-integrated_plant_protection
