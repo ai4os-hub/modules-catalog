@@ -6,7 +6,7 @@
 
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
 
-This catalog gathers all the AI modules integrated in the AI4OS platform.
+This catalog gathers all the AI modules integrated in the AI4OS Marketplace.
 AI modules are listed as git submodules.
 
 
@@ -28,7 +28,7 @@ git submodule add -b main https://github.com/ai4os-hub/<module_name>
 
 To remove a module from the catalog:
 ```bash
-bash tools/remove-submodule.sh <module_name>
+bash utils/remove-submodule.sh <module_name>
 ```
 
 ### Updating the existing modules
