@@ -130,6 +130,3 @@
 	path = thermal-bridges-rooftops-detector
 	url = https://github.com/ai4os-hub/thermal-bridges-rooftops-detector
 	branch = main
-[submodule "ai4os-dev-env"]
-	path = ai4os-dev-env
-	url = https://github.com/ai4os/ai4os-dev-env/
