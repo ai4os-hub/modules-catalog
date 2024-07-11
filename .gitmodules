@@ -130,3 +130,7 @@
 	path = ai4os-dev-env
 	url = https://github.com/ai4os/ai4os-dev-env/
 	branch = main
+[submodule "integrated-plant-protection"]
+	path = integrated-plant-protection
+	url = https://github.com/ai4os-hub/integrated-plant-protection.git
+	branch = main
