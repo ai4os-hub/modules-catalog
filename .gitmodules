@@ -118,10 +118,6 @@
 	path = UC-EnocMartinez-DEEP-OC-obsea-fish-detection
 	url = https://github.com/deephdc/UC-EnocMartinez-DEEP-OC-obsea-fish-detection
 	branch = master
-[submodule "UC-ai4eosc-psnc-DEEP-OC-integrated_plant_protection"]
-	path = UC-ai4eosc-psnc-DEEP-OC-integrated_plant_protection
-	url = https://github.com/deephdc/UC-ai4eosc-psnc-DEEP-OC-integrated_plant_protection
-	branch = master
 [submodule "UC-jmbIFR-DEEP-OC-marine_species_seg"]
 	path = UC-jmbIFR-DEEP-OC-marine_species_seg
 	url = https://github.com/deephdc/UC-jmbIFR-DEEP-OC-marine_species_seg
