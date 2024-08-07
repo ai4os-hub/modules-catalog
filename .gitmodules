@@ -74,10 +74,6 @@
 	path = DEEP-OC-mods
 	url = https://github.com/deephdc/DEEP-OC-mods
 	branch = master
-[submodule "DEEP-OC-plants-classification-tf"]
-	path = DEEP-OC-plants-classification-tf
-	url = https://github.com/deephdc/DEEP-OC-plants-classification-tf
-	branch = master
 [submodule "DEEP-OC-satsr"]
 	path = DEEP-OC-satsr
 	url = https://github.com/deephdc/DEEP-OC-satsr
