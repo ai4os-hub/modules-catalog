@@ -126,3 +126,7 @@
 	path = integrated-plant-protection
 	url = https://github.com/ai4os-hub/integrated-plant-protection.git
 	branch = main
+[submodule "zooprocess-multiple-classifier"]
+	path = zooprocess-multiple-classifier
+	url = https://github.com/ai4os-hub/zooprocess-multiple-classifier/
+	branch = main
