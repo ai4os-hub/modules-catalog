@@ -98,10 +98,6 @@
 	path = UC-DFKI-NI-DEEP-OC-litter_assessment_service
 	url = https://github.com/deephdc/UC-DFKI-NI-DEEP-OC-litter_assessment_service
 	branch = main
-[submodule "UC-lifewatch-DEEP-OC-phyto-plankton-classification"]
-	path = UC-lifewatch-DEEP-OC-phyto-plankton-classification
-	url = https://github.com/deephdc/UC-lifewatch-DEEP-OC-phyto-plankton-classification
-	branch = master
 [submodule "UC-lifewatch-DEEP-OC-underwater-noise-classification"]
 	path = UC-lifewatch-DEEP-OC-underwater-noise-classification
 	url = https://github.com/deephdc/UC-lifewatch-DEEP-OC-underwater-noise-classification
@@ -129,4 +125,8 @@
 [submodule "zooprocess-multiple-classifier"]
 	path = zooprocess-multiple-classifier
 	url = https://github.com/ai4os-hub/zooprocess-multiple-classifier/
+	branch = main
+[submodule "phyto-plankton-classification"]
+	path = phyto-plankton-classification
+	url = https://github.com/ai4os-hub/phyto-plankton-classification.git
 	branch = main
