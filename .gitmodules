@@ -98,10 +98,6 @@
 	path = UC-lifewatch-DEEP-OC-underwater-noise-classification
 	url = https://github.com/deephdc/UC-lifewatch-DEEP-OC-underwater-noise-classification
 	branch = master
-[submodule "UC-EnocMartinez-DEEP-OC-obsea-fish-detection"]
-	path = UC-EnocMartinez-DEEP-OC-obsea-fish-detection
-	url = https://github.com/deephdc/UC-EnocMartinez-DEEP-OC-obsea-fish-detection
-	branch = master
 [submodule "UC-jmbIFR-DEEP-OC-marine_species_seg"]
 	path = UC-jmbIFR-DEEP-OC-marine_species_seg
 	url = https://github.com/deephdc/UC-jmbIFR-DEEP-OC-marine_species_seg
@@ -129,4 +125,8 @@
 [submodule "litter-assessment"]
 	path = litter-assessment
 	url = https://github.com/ai4os-hub/litter-assessment
+	branch = main
+[submodule "obsea-fish-detection"]
+	path = obsea-fish-detection
+	url = https://github.com/ai4os-hub/obsea-fish-detection
 	branch = main
