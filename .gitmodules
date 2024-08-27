@@ -94,10 +94,6 @@
 	path = UC-emmaamblard-DEEP-OC-multi_plankton_separation
 	url = https://github.com/deephdc/UC-emmaamblard-DEEP-OC-multi_plankton_separation
 	branch = master
-[submodule "UC-DFKI-NI-DEEP-OC-litter_assessment_service"]
-	path = UC-DFKI-NI-DEEP-OC-litter_assessment_service
-	url = https://github.com/deephdc/UC-DFKI-NI-DEEP-OC-litter_assessment_service
-	branch = main
 [submodule "UC-lifewatch-DEEP-OC-underwater-noise-classification"]
 	path = UC-lifewatch-DEEP-OC-underwater-noise-classification
 	url = https://github.com/deephdc/UC-lifewatch-DEEP-OC-underwater-noise-classification
@@ -129,4 +125,8 @@
 [submodule "phyto-plankton-classification"]
 	path = phyto-plankton-classification
 	url = https://github.com/ai4os-hub/phyto-plankton-classification.git
+	branch = main
+[submodule "litter-assessment"]
+	path = litter-assessment
+	url = https://github.com/ai4os-hub/litter-assessment
 	branch = main
