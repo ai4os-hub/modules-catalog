@@ -90,10 +90,6 @@
 	path = UC-hereariim-DEEP-OC-blossom
 	url = https://github.com/deephdc/UC-hereariim-DEEP-OC-blossom
 	branch = master
-[submodule "UC-emmaamblard-DEEP-OC-multi_plankton_separation"]
-	path = UC-emmaamblard-DEEP-OC-multi_plankton_separation
-	url = https://github.com/deephdc/UC-emmaamblard-DEEP-OC-multi_plankton_separation
-	branch = master
 [submodule "UC-lifewatch-DEEP-OC-underwater-noise-classification"]
 	path = UC-lifewatch-DEEP-OC-underwater-noise-classification
 	url = https://github.com/deephdc/UC-lifewatch-DEEP-OC-underwater-noise-classification
@@ -129,4 +125,12 @@
 [submodule "obsea-fish-detection"]
 	path = obsea-fish-detection
 	url = https://github.com/ai4os-hub/obsea-fish-detection
+	branch = main
+[submodule "smartbay-species-detection"]
+	path = smartbay-species-detection
+	url = https://github.com/ai4os-hub/smartbay-species-detection
+	branch = main
+[submodule "smartbay-prawn-burrow-detection"]
+	path = smartbay-prawn-burrow-detection
+	url = https://github.com/ai4os-hub/smartbay-prawn-burrow-detection
 	branch = main
