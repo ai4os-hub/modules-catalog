@@ -134,3 +134,7 @@
 	path = smartbay-prawn-burrow-detection
 	url = https://github.com/ai4os-hub/smartbay-prawn-burrow-detection
 	branch = main
+[submodule "deep-species-detection"]
+	path = deep-species-detection
+	url = https://github.com/ai4os-hub/deep-species-detection
+	branch = main
