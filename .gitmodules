@@ -94,10 +94,6 @@
 	path = UC-lifewatch-DEEP-OC-underwater-noise-classification
 	url = https://github.com/deephdc/UC-lifewatch-DEEP-OC-underwater-noise-classification
 	branch = master
-[submodule "UC-jmbIFR-DEEP-OC-marine_species_seg"]
-	path = UC-jmbIFR-DEEP-OC-marine_species_seg
-	url = https://github.com/deephdc/UC-jmbIFR-DEEP-OC-marine_species_seg
-	branch = master
 [submodule "thermal-bridges-rooftops-detector"]
 	path = thermal-bridges-rooftops-detector
 	url = https://github.com/ai4os-hub/thermal-bridges-rooftops-detector
