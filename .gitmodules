@@ -138,3 +138,7 @@
 	path = deep-species-detection
 	url = https://github.com/ai4os-hub/deep-species-detection
 	branch = main
+[submodule "cold-coral-segmentation"]
+	path = cold-coral-segmentation
+	url = https://github.com/ai4os-hub/cold-coral-segmentation
+	branch = main
