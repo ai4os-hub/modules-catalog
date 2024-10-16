@@ -138,3 +138,7 @@
 	path = cold-coral-segmentation
 	url = https://github.com/ai4os-hub/cold-coral-segmentation
 	branch = main
+[submodule "zooprocess-multiple-separator"]
+	path = zooprocess-multiple-separator
+	url = https://github.com/ai4os-hub/zooprocess-multiple-separator.git
+	branch = main
