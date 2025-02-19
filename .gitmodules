@@ -146,3 +146,7 @@
 	path = WITOIL-for-iMagine
 	url = https://github.com/ai4os-hub/WITOIL-for-iMagine.git
 	branch = main
+[submodule "thermal-urban-feature-segmenter"]
+	path = thermal-urban-feature-segmenter
+	url = https://github.com/ai4os-hub/thermal-urban-feature-segmenter
+	branch = main
