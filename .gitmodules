@@ -150,3 +150,7 @@
 	path = thermal-urban-feature-segmenter
 	url = https://github.com/ai4os-hub/thermal-urban-feature-segmenter
 	branch = main
+[submodule "diamorph-detection"]
+	path = diamorph-detection
+	url = https://github.com/ai4os-hub/diamorph-detection
+	branch = main
