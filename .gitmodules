@@ -138,10 +138,6 @@
 	path = zooprocess-multiple-separator
 	url = https://github.com/ai4os-hub/zooprocess-multiple-separator.git
 	branch = main
-[submodule "ai4os-dev-env"]
-	path = ai4os-dev-env
-	url = https://github.com/ai4os/ai4os-dev-env/
-	branch = main
 [submodule "WITOIL-for-iMagine"]
 	path = WITOIL-for-iMagine
 	url = https://github.com/ai4os-hub/WITOIL-for-iMagine.git
