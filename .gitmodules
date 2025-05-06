@@ -150,3 +150,7 @@
 	path = diamorph-detection
 	url = https://github.com/ai4os-hub/diamorph-detection
 	branch = main
+[submodule "thermal-anomaly-segmenter"]
+	path = thermal-anomaly-segmenter
+	url = https://github.com/ai4os-hub/thermal-anomaly-segmenter
+	branch = main
