@@ -154,3 +154,7 @@
 	path = thermal-anomaly-segmenter
 	url = https://github.com/ai4os-hub/thermal-anomaly-segmenter
 	branch = main
+[submodule "smartbay-marine-types"]
+	path = smartbay-marine-types
+	url = https://github.com/ai4os-hub/smartbay-marine-types.git
+	branch = main
