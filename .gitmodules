@@ -90,10 +90,10 @@
 	path = UC-hereariim-DEEP-OC-blossom
 	url = https://github.com/deephdc/UC-hereariim-DEEP-OC-blossom
 	branch = master
-[submodule "UC-lifewatch-DEEP-OC-underwater-noise-classification"]
-	path = UC-lifewatch-DEEP-OC-underwater-noise-classification
-	url = https://github.com/deephdc/UC-lifewatch-DEEP-OC-underwater-noise-classification
-	branch = master
+[submodule "audio-vessel-classification"]
+	path = audio-vessel-classification
+	url = https://github.com/ai4os-hub/audio-vessel-classification
+	branch = main
 [submodule "thermal-bridges-rooftops-detector"]
 	path = thermal-bridges-rooftops-detector
 	url = https://github.com/ai4os-hub/thermal-bridges-rooftops-detector
