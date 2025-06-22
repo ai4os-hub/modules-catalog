@@ -93,7 +93,7 @@
 [submodule "audio-vessel-classification"]
 	path = audio-vessel-classification
 	url = https://github.com/ai4os-hub/audio-vessel-classification
-	branch = master
+	branch = main
 [submodule "thermal-bridges-rooftops-detector"]
 	path = thermal-bridges-rooftops-detector
 	url = https://github.com/ai4os-hub/thermal-bridges-rooftops-detector
