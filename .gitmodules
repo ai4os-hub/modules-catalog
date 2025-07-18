@@ -162,3 +162,7 @@
 	path = eyeonwater-yolo
 	url = https://github.com/ai4os-hub/eyeonwater-yolo
 	branch = main
+[submodule "diamorph-classification"]
+	path = diamorph-classification
+	url = https://github.com/ai4os-hub/diamorph-classification
+	branch = main
