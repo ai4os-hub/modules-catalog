@@ -6,10 +6,10 @@ name: Update PAPI Catalog
 on:
   push:
     paths: ['.gitmodules']
-    branches: [main]
+    branches: [master]
   pull_request:
     paths: ['.gitmodules']
-    branches: [main]
+    branches: [master]
 
 jobs:
   update-catalog:
