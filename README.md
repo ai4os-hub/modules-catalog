@@ -24,6 +24,10 @@ you should add this parameter in the submodule command:
 git submodule add -b main https://github.com/ai4os-hub/<module_name>
 ```
 
+Remember that for a new module to appear in the Dashboard, you need to **trigger the Jenkins pipeline** of that module after _pushing_ the catalog index update, so that PAPI is notified that it has to refresh the catalog.
+Otherwise your module will end up appearing nonetheless after a period of 7 days.
+
+
 ### Removing a module from the catalog
 
 To remove a module from the catalog:
