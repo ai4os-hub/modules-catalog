@@ -1,0 +1,27 @@
+# Every time a module is added to the catalog, we refresh PAPI catalog index
+# It also works when removing modules from the catalog
+
+name: Update PAPI Catalog
+
+on:
+  push:
+    paths: ['.gitmodules']
+    branches: [main]
+  pull_request:
+    paths: ['.gitmodules']
+    branches: [main]
+
+jobs:
+  update-catalog:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Call PAPI refresh endpoint
+      run: |
+        curl -X 'PUT' \
+            'https://api.cloud.ai4eosc.eu/v1/catalog/modules/refresh' \
+            -H 'accept: application/json' \
+            -H 'Authorization: Bearer ${{ secrets.PAPI_REFRESH_TOKEN }}'
