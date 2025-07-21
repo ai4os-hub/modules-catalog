@@ -162,3 +162,7 @@
 	path = diamorph-classification
 	url = https://github.com/ai4os-hub/diamorph-classification
 	branch = main
+[submodule "ai4os-demo-app"]
+	path = ai4os-demo-app
+	url = https://github.com/ai4os-hub/ai4os-demo-app
+	branch = main
