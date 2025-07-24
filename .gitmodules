@@ -162,3 +162,7 @@
 	path = ai4os-demo-app
 	url = https://github.com/ai4os-hub/ai4os-demo-app
 	branch = main
+[submodule "posenet-tf"]
+	path = posenet-tf
+	url = https://github.com/ai4os-hub/posenet-tf
+	branch = main
