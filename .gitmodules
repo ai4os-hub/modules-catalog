@@ -54,10 +54,6 @@
 	path = ai4os-speech-to-text-tf
 	url = https://github.com/ai4os-hub/ai4os-speech-to-text-tf
 	branch = main
-[submodule "ai4os-yolov8-torch"]
-	path = ai4os-yolov8-torch
-	url = https://github.com/ai4os-hub/ai4os-yolov8-torch
-	branch = main
 [submodule "thunderstorm-nowcast-microstep"]
 	path = thunderstorm-nowcast-microstep
 	url = https://github.com/ai4os-hub/thunderstorm-nowcast-microstep
@@ -165,4 +161,8 @@
 [submodule "posenet-tf"]
 	path = posenet-tf
 	url = https://github.com/ai4os-hub/posenet-tf
+	branch = main
+[submodule "ai4os-yolo-torch"]
+	path = ai4os-yolo-torch
+	url = https://github.com/ai4os-hub/ai4os-yolo-torch.git
 	branch = main
