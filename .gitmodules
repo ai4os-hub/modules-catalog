@@ -166,3 +166,7 @@
 	path = ai4os-yolo-torch
 	url = https://github.com/ai4os-hub/ai4os-yolo-torch.git
 	branch = main
+[submodule "socib-beach-wracks-identification"]
+	path = socib-beach-wracks-identification
+	url = https://github.com/ai4os-hub/socib-beach-wracks-identification
+	branch = main
