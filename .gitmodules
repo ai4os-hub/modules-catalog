@@ -62,10 +62,6 @@
 	path = DEEP-OC-mods
 	url = https://github.com/deephdc/DEEP-OC-mods
 	branch = master
-[submodule "DEEP-OC-satsr"]
-	path = DEEP-OC-satsr
-	url = https://github.com/deephdc/DEEP-OC-satsr
-	branch = master
 [submodule "DEEP-OC-image-classification-tf-dicom"]
 	path = DEEP-OC-image-classification-tf-dicom
 	url = https://github.com/deephdc/DEEP-OC-image-classification-tf-dicom
@@ -169,4 +165,8 @@
 [submodule "socib-beach-wracks-identification"]
 	path = socib-beach-wracks-identification
 	url = https://github.com/ai4os-hub/socib-beach-wracks-identification
+	branch = main
+[submodule "satsr"]
+	path = satsr
+	url = https://github.com/ai4os-hub/satsr
 	branch = main
