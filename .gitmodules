@@ -62,10 +62,6 @@
 	path = DEEP-OC-mods
 	url = https://github.com/deephdc/DEEP-OC-mods
 	branch = master
-[submodule "DEEP-OC-image-classification-tf-dicom"]
-	path = DEEP-OC-image-classification-tf-dicom
-	url = https://github.com/deephdc/DEEP-OC-image-classification-tf-dicom
-	branch = master
 [submodule "UC-adnaneds-DEEP-OC-unet"]
 	path = UC-adnaneds-DEEP-OC-unet
 	url = https://github.com/deephdc/UC-adnaneds-DEEP-OC-unet
@@ -170,3 +166,6 @@
 	path = satsr
 	url = https://github.com/ai4os-hub/satsr
 	branch = main
+[submodule "image-classification-tf-dicom"]
+	path = image-classification-tf-dicom
+	url = https://github.com/ai4os-hub/image-classification-tf-dicom
