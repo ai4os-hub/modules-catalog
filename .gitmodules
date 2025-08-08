@@ -169,3 +169,7 @@
 [submodule "image-classification-tf-dicom"]
 	path = image-classification-tf-dicom
 	url = https://github.com/ai4os-hub/image-classification-tf-dicom
+[submodule "sentinel-data-fusion"]
+	path = sentinel-data-fusion
+	url = https://github.com/ai4os-hub/sentinel-data-fusion
+	branch = main
