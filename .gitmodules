@@ -177,3 +177,7 @@
 	path = socib-shoreline-extraction
 	url = https://github.com/ai4os-hub/socib-shoreline-extraction
 	branch = main
+[submodule "socib-rip-currents-detection"]
+	path = socib-rip-currents-detection
+	url = https://github.com/ai4os-hub/socib-rip-currents-detection
+	branch = main
