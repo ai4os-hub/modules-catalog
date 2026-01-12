@@ -173,3 +173,7 @@
 	path = sentinel-data-fusion
 	url = https://github.com/ai4os-hub/sentinel-data-fusion
 	branch = main
+[submodule "socib-shoreline-extraction"]
+	path = socib-shoreline-extraction
+	url = https://github.com/ai4os-hub/socib-shoreline-extraction
+	branch = main
